@@ -1,7 +1,7 @@
 #language: pt
 
 @todo
-Funcionalidade: todo
+Funcionalidade: Todo
     Nao se pode adicionar um todo sem texto clique direto no botao add 
     Limpando input de todo através do botao x 
     Incluindo um item a lista de todo
@@ -10,8 +10,7 @@ Funcionalidade: todo
     concluir a segunda tarefa da lista  todo
     Excluir uma tarefa de todo
     Excluir algumas tarefa de todo comecando com a ultima 
-    Ir para a tela de done 
-
+   
     
     Cenario: Nao se pode adicionar um todo sem texto clique direto no botao add 
         Quando eu acesso o app via browser
