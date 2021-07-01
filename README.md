@@ -58,30 +58,30 @@ log/report.html or log/report.json
 
 
 # TESTES 
-  Funcionalidade: Done
-    Ir para a tela de done 
-    Ir para a tela done sem nenhum item
-    Incluir item todo concluir o mesmo e aparecer em done
-    Incluir item todo nao concluir o mesmo nao aparecer em done
-    Verificar se o input de pesquisa funciona
-    Verificar se o input de pesquisa funciona para combinacao de resultados
+  ####Funcionalidade: Done
+    * Ir para a tela de done 
+    * Ir para a tela done sem nenhum item
+    * Incluir item todo concluir o mesmo e aparecer em done
+    * Incluir item todo nao concluir o mesmo nao aparecer em done
+    * Verificar se o input de pesquisa funciona
+    * Verificar se o input de pesquisa funciona para combinacao de resultados
 
-Funcionalidade: Todo
-    Nao se pode adicionar um todo sem texto clique direto no botao add 
-    Limpando input de todo através do botao x 
-    Incluindo um item a lista de todo
-    Incluindo mais de um item a lista de todo
-    concluir um item da lista 
-    concluir a segunda tarefa da lista  todo
-    Excluir uma tarefa de todo
-    Excluir algumas tarefa de todo comecando com a ultima 
+####Funcionalidade: Todo
+    * Nao se pode adicionar um todo sem texto clique direto no botao add 
+    * Limpando input de todo através do botao x 
+    * Incluindo um item a lista de todo
+    * Incluindo mais de um item a lista de todo
+    * concluir um item da lista 
+    * concluir a segunda tarefa da lista  todo
+    * Excluir uma tarefa de todo
+    * Excluir algumas tarefa de todo comecando com a ultima 
    
 
 
 # BUGS 
 
-   UI cartoes de tarefas nao sao responsiveis de acordo com o tamanho do texto
-   BUG Excluir uma tarefa de done na Ui ele nao desaparece 
+   * UI cartoes de tarefas nao sao responsiveis de acordo com o tamanho do texto
+   * BUG Excluir uma tarefa de done na Ui ele nao desaparece 
    
 
   
