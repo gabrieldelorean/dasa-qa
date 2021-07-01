@@ -1,4 +1,4 @@
-# dasa-qa RUBY 
+# dasa-qa 
 
 ## Gerenciadores de pacotes obrigatórios 
 
@@ -22,7 +22,7 @@ npm install
 npm run serve
 ```
 
-# dasa-qa
+
 ### Instalando dependencias  
 
 Mac 
@@ -57,7 +57,7 @@ log/report.html or log/report.json
 ```
 
 
-# TESTES 
+### TESTES 
   #### Funcionalidade: Done
     * Ir para a tela de done 
     * Ir para a tela done sem nenhum item
@@ -78,7 +78,7 @@ log/report.html or log/report.json
    
 
 
-# BUGS 
+### BUGS 
 
    * UI cartoes de tarefas nao sao responsiveis de acordo com o tamanho do texto
    * BUG Excluir uma tarefa de done na Ui ele nao desaparece 
