@@ -40,6 +40,8 @@ Mac
 
 ### QA Automation Install
 
+ no diretório raiz após clone do projeto "dasa-qa"
+
 ```bash
 bundle install    
 ```
