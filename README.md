@@ -58,7 +58,7 @@ log/report.html or log/report.json
 
 
 # TESTES 
-  ####Funcionalidade: Done
+  #### Funcionalidade: Done
     * Ir para a tela de done 
     * Ir para a tela done sem nenhum item
     * Incluir item todo concluir o mesmo e aparecer em done
@@ -66,7 +66,7 @@ log/report.html or log/report.json
     * Verificar se o input de pesquisa funciona
     * Verificar se o input de pesquisa funciona para combinacao de resultados
 
-####Funcionalidade: Todo
+#### Funcionalidade: Todo
     * Nao se pode adicionar um todo sem texto clique direto no botao add 
     * Limpando input de todo através do botao x 
     * Incluindo um item a lista de todo
