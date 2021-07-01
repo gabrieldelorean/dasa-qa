@@ -2,8 +2,8 @@
 
 ## Gerenciadores de pacotes obrigatórios 
 
--- Gerenciador de pacotes ruby  -> bundle https://bundler.io/
--- Gerenciador de pacotes javascript -> node https://nodejs.org/en/
+* Gerenciador de pacotes ruby  -> bundle https://bundler.io/
+* Gerenciador de pacotes javascript -> node https://nodejs.org/en/
 
 
 ### Node.js instalado WEB APP  Localhost
